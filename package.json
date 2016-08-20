@@ -1,11 +1,11 @@
 {
   "name": "global-module-reload",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Reloads your global npm module while you develop the source files, saving you alot of time!",
   "main": "./lib/index.js",
   "preferGlobal": "true",
   "bin": {
-    "symhelp": "bin/test-module.js"
+    "globalreload": "bin/test-module.js"
   },
   "repository": {
     "type": "git",
