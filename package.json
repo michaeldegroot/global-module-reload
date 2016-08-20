@@ -21,16 +21,9 @@
   "author": "Michael de Groot <specamps@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "assert": "^1.3.0",
-    "assert-plus": "^1.0.0",
     "cli-color": "^1.1.0",
-    "coveralls": "^2.11.9",
     "gulp": "^3.9.1",
     "gulp-watch": "^4.3.9",
-    "istanbul": "^0.4.3",
-    "jfile": "^1.1.12",
-    "mocha": "^2.4.5",
-    "mocha-lcov-reporter": "^1.2.0",
     "right-pad": "^1.0.1",
     "rimraf": "^2.5.4"
   }
