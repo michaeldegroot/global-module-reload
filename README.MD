@@ -48,7 +48,9 @@ ___
 
 ### Roadmap
 
--   Folder removal and watcher
+-   Folder removal
+-   Folder watcher
+
 ___
 
 ### Contact  
