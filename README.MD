@@ -1,7 +1,7 @@
 [![](https://nodei.co/npm/global-module-reload.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/global-module-reload)
 
 [![](https://david-dm.org/michaeldegroot/global-module-reload.svg "deps") ](https://david-dm.org/michaeldegroot/global-module-reload "david-dm")
-![](https://img.shields.io/badge/Node-%3E%3D0.11-green.svg)
+![](https://img.shields.io/badge/Node-%3E%3D4.5.0-green.svg)
 ![](https://img.shields.io/npm/dt/global-module-reload.svg)
 ![](https://img.shields.io/npm/l/express.svg)
 
