@@ -1,6 +1,6 @@
 {
   "name": "global-module-reload",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Reloads your global npm module while you develop the source files, saving you alot of time!",
   "main": "./lib/index.js",
   "preferGlobal": "true",
